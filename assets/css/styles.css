@@ -27,7 +27,7 @@
 
 body {
   font-family: var(--body-font);
-  background-color: var(--body-color);
+  background-color: var(--title-color);
   color: var(--text-color);
 }
 
@@ -99,7 +99,7 @@ img {
   text-decoration: underline;
 }
 
-/* Naming animations in hover */
+/* Naming Animations in Hover */
 .card__article:hover .card__data {
   animation: show-data 1s forwards;
   opacity: 1;
@@ -118,7 +118,7 @@ img {
   animation: remove-data 1s forwards;
 }
 
-/* Card animation */
+/* Card Animation */
 @keyframes show-data {
   50% {
     transform: translateY(-10rem);
@@ -157,7 +157,7 @@ img {
 }
 
 /*=============== BREAKPOINTS ===============*/
-/* For small devices */
+/* For Small Devices */
 @media screen and (max-width: 340px) {
   .container {
     margin-inline: 1rem;
@@ -169,7 +169,7 @@ img {
   }
 }
 
-/* For medium devices */
+/* For Medium Devices */
 @media screen and (min-width: 768px) {
   .card__container {
     grid-template-columns: repeat(2, 1fr);
@@ -177,7 +177,7 @@ img {
   }
 }
 
-/* For large devices */
+/* For Large Devices */
 @media screen and (min-width: 1120px) {
   .container {
     height: 100vh;
