@@ -3,7 +3,7 @@
     <img src=".docs/preview.png" alt="Aperçu des effets de survol de cartes">  
   </a>  
   </br></br>  
-  <h3 align="center">🏞 Cartes avec effet de survol</h3>  
+  <h3 align="center">🏞 Cartes avec Effet de Survol</h3>  
 </div>
 
 ## <br /> 📌 Sommaire
