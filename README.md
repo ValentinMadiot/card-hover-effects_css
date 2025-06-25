@@ -48,6 +48,7 @@ Design responsive, animations fluides en pur CSS, parfait pour portfolios, galer
 
 ```bash
 git clone https://github.com/ValentinMadiot/card-hover-effects_css
+cd card-hover-effects_css
 ```
 
 ### ▶️ Lancer le projet
