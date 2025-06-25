@@ -15,23 +15,24 @@
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
-Composants de cartes animées en HTML et CSS avec effet de survol dynamique.  
-Chaque carte affiche un visuel avec texte descriptif et bouton, révélés lors du hover.
+Composants de cartes interactives animées en HTML et CSS pur avec effet de survol dynamique.
 
-Design responsive, animations fluides en pur CSS, parfait pour portfolios, galeries ou sections "À propos".
+Chaque carte combine un visuel attractif, un texte descriptif et un bouton d'action, le tout révélé élégamment au survol.
+
+Design responsive, animations fluides en pur CSS, parfait pour portfolios, galeries, etc...
 
 ## <br /> <a name="technologies">🛠️ Technologies</a>
 
-- HTML5 sémantique
-- CSS3 moderne (Custom properties, media queries, animations)
+- HTML5 structuré et sémantique
+- CSS3 moderne (variables CSS, media queries, animations)
 - Responsive Design avec breakpoints
-- Aucune dépendance JS
+- Aucune dépendance JS : 100% CSS natif
 
 ## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
 
 - Apparition animée du texte lors du survol de l’image
-- Design responsive multi-colonnes (1, 2 ou 3 cartes selon la taille d’écran)
-- Transitions douces et effets CSS (`@keyframes`, `:hover`)
+- Design responsive multi-colonnes : 1, 2 ou 3 cartes selon la taille d’écran
+- Transitions douces et effets CSS : `@keyframes`, `:hover`
 - Images et données facilement modifiables
 - Aucune librairie externe requise
 
@@ -39,15 +40,16 @@ Design responsive, animations fluides en pur CSS, parfait pour portfolios, galer
 
 ### ✅ Prérequis
 
-- Un navigateur moderne (Google Chrome)
-- Un éditeur de code (VS Code)
+- [Google Chrome](https://www.google.com/) &nbsp;—&nbsp; Navigateur moderne
+- [Visual Studio Code](https://code.visualstudio.com/) &nbsp;—&nbsp; Éditeur de code
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) &nbsp;—&nbsp; Extension VS Code
 
 ### 📥 Cloner le projet
 
 ```bash
-git clone https://github.com/ValentinMadiot/card-hover-effects_css.git
+git clone https://github.com/ValentinMadiot/card-hover-effects_css
 ```
 
-### ▶️ Lancer localement
+### ▶️ Lancer le projet
 
-Il suffit d’ouvrir le fichier index.html dans un navigateur, ou d’utiliser l’extension Live Server sur VS Code.
+Il suffit d’ouvrir le fichier `index.html` dans un navigateur, ou d’utiliser l’extension **Live Server** sur VS Code pour un aperçu dynamique.
