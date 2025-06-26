@@ -1,9 +1,9 @@
 <div align="center">  
-  <a href="https://card-hover-effects-1.netlify.app/" target="_blank">  
-    <img src=".docs/preview.png" alt="Aperçu des effets de survol de cartes">  
+  <a href="https://image-hover-effects-1.netlify.app/" target="_blank">  
+    <img src=".docs/preview.png" alt="Aperçu des effets de survol des images">  
   </a>  
   </br></br>  
-  <h3 align="center">🏞 Cartes avec Effet de Survol</h3>  
+  <h3 align="center">🏞 Images avec Effet de Survol</h3>  
 </div>
 
 ## <br /> 📌 Sommaire
@@ -15,9 +15,9 @@
 
 ## <br /> <a name="introduction">🎨 Introduction</a>
 
-Composants de cartes interactives animées en HTML et CSS pur avec effet de survol dynamique.
+Composants d'images interactives animées en HTML et CSS pur avec effet de survol dynamique.
 
-Chaque carte combine un visuel attractif, un texte descriptif et un bouton d'action, le tout révélé élégamment au survol.
+Chaque image associe un visuel attractif, un texte descriptif et un bouton d'action, le tout révélé élégamment au survol.
 
 Design responsive, animations fluides en pur CSS, parfait pour portfolios, galeries, etc...
 
@@ -31,7 +31,7 @@ Design responsive, animations fluides en pur CSS, parfait pour portfolios, galer
 ## <br /> <a name="fonctionnalités">🎯 Fonctionnalités</a>
 
 - Apparition animée du texte lors du survol de l’image
-- Design responsive multi-colonnes : 1, 2 ou 3 cartes selon la taille d’écran
+- Design responsive multi-colonnes : 1, 2 ou 3 images selon la taille d’écran
 - Transitions douces et effets CSS : `@keyframes`, `:hover`
 - Images et données facilement modifiables
 - Aucune librairie externe requise
@@ -47,8 +47,8 @@ Design responsive, animations fluides en pur CSS, parfait pour portfolios, galer
 ### 📥 Cloner le projet
 
 ```bash
-git clone https://github.com/ValentinMadiot/card-hover-effects_css
-cd card-hover-effects_css
+git clone https://github.com/ValentinMadiot/img-hover-effects_css
+cd img-hover-effects_css
 ```
 
 ### ▶️ Lancer le projet
