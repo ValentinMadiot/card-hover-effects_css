@@ -3,7 +3,7 @@
     <img src=".docs/preview.png" alt="Aperçu des effets de survol des images">  
   </a>  
   </br></br>  
-  <h3 align="center">🏞 Images avec Effet de Survol</h3>  
+  <h3 align="center">🏞 Effet de Survol d'Images</h3>  
 </div>
 
 ## <br /> 📌 Sommaire
